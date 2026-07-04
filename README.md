@@ -77,3 +77,9 @@ The agent only ever executes `SELECT` statements. Before running any generated S
 
 (Same schema as the dataset used in the ML case study project — the two projects are designed to be presented together as "I analyzed this data with traditional ML, then built a GenAI interface on top of it.")
 
+## Demo
+
+![App Overview](screenshots/overview.png)
+
+**Generated SQL and results shown transparently:**
+![Response Overview](screenshots/response_overview.png)
